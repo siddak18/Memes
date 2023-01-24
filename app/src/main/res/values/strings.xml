@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">memekotlin</string>
+    <string name="share" />
+    <string name="next" />
+    <string name="nextmeme">nextmeme</string>
+    <string name="sharememe">sharememe</string>
+    <string name="which_kind_of_meme">which kind of meme</string>
+</resources>
